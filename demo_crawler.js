@@ -28,7 +28,7 @@ function compare(book1, book2) {
 }
 
 function check() {
-    let symbol = 'xrpbtc';
+    let symbol = 'btcusdt';
     // 检查rest行情和ws行情是否一致并打印
     // console.log('ws',JSON.stringify(ws.OrderBook));
     // console.log('rest',JSON.stringify(rest.OrderBook));

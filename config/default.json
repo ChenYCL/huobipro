@@ -1,8 +1,8 @@
 {
     "huobi": {
-        "access_key": "replace_me",
-        "secretkey": "replace_me",
-        "uid": "replace_me",
+        "access_key": "9d722e43-dab4c45e6f-bb32597c-ecd5b",
+        "secretkey": "e5f89658-d12b9f18-1280836d-2b072",
+        "uid": "53253527",
         "account_id_pro": "replace_me",
         "trade_password": "replace_me",
         "privatekey": "replace_me"
